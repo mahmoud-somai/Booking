@@ -1,0 +1,140 @@
+.profile_container{
+    width: 100%;
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-bottom: 150px;
+}
+
+.image_box{
+    height: 180px;
+    width: 50%;
+    padding-right: 50%;
+    float: left;    
+}
+.profil{
+    border-radius: 50%;
+    height: 300px ;
+    width: 350px ;
+}
+.data_box{
+   padding-top: 40px;
+ 
+}
+b{
+    padding-left: 10px;
+}
+
+.hot_cont{
+    width: 90%;
+    margin-top: 12%;
+    height: 25%;
+    background-color:rgba(229, 226, 226, 0.836) ;
+    position: relative;
+    margin-left: 130px;
+}
+.hot_cont .taches{
+    position: relative;
+    background-color: rgb(151, 151, 151);
+    width: 25%;
+    float: left;
+    height: 250px;
+    padding-left: 110px;
+    padding-top: 35px;
+    
+}
+.taches .bt{
+    padding: 10px;
+    margin-top: 15px;
+}
+.hot_data{
+    height: 250px;
+    width: 60%;
+    margin-left:30%;
+    border-radius: 10%;
+}
+.hot_img{
+   
+    width: 100%;
+    justify-content: center ;
+    padding-top: 20px;
+    
+    
+}
+.hot_img .hot{
+    width: 75%;
+    padding-left: 30%;
+    height: 120px;
+    object-fit: cover; 
+}
+.actions{
+    
+    height: 50%;
+    padding-left: 25%;
+    padding-top: 4%;
+}
+.bta{
+    margin-right: 20% ;
+    height: 35px;
+    width: 75px;
+    border-radius: 10px;
+    background-color: burlywood;
+    box-shadow: 12px 12px 24px #5d8cae;
+}
+.show{
+    background-color: black;
+    margin-top: 10px;
+    width: 100%;
+    position: relative;
+    height: 200px;
+}
+.show .news{
+    background-color: red;
+    position: relative;
+    margin: 10px;
+    border-radius: 5px;
+    border: aliceblue solid;
+    height: 100%;
+    
+
+}
+.news:after{
+    display: table;
+    clear: both;
+    content: "";   
+}
+
+.res_news,.last_news,.rooms_news{
+    height: 100%;
+}
+
+.rooms_news{
+    float: left;
+    width: 33.33%;
+    background-color: #5d8cae;
+    padding-left: 10px;
+}
+.last_news{
+    background-color: royalblue;
+    float: left;
+    width: 33.33%;
+    padding-left: 10px;
+}
+
+.res_news{
+    background-color: darkgreen;
+    float: left;
+    width: 33.33%;
+    padding-left: 10px;
+}
+
+li{
+    padding: 20px;
+}
+
+.before_table{
+    padding-left: 50px;
+}
+#btn_table{
+    margin-left: 80%;
+    background-color: rgb(35, 201, 35);
+}

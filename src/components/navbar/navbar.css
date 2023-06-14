@@ -1,0 +1,18 @@
+.navbar{
+  height: 90px;
+  background-color: #003580;
+  display: flex;
+  justify-content: center;
+  box-shadow: 10px 5px 5px #5d8cae;
+}
+
+img{
+  width: 300px;
+  height: 80px;
+}
+#navbut{
+  position:fixed;
+  top: 0;
+  right: 0;
+  z-index: 10;
+}
